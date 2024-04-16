@@ -11,8 +11,7 @@ STL的几个基本概念:
 1. **容器**:可容纳各种数据类型的数据结构
 2. **迭代器**:可**依次存取**容器中的元素
 
-<img src = "C:\Archive\LanQiao\Lesson\Pictures\0006.png">
-
+![](../Pictures/0006.png)
 C++的STL提供了多种容器，例如vector存储数组，list存储链表，set、map存储二叉树等等。
 
 ## 1. pair
@@ -215,7 +214,7 @@ list是一种双向链表容器。它是STL提供的一种**序列容器**。lis
 
 如果想调用list,请使用头文件`<list>`
 
-<img src = "C:\Archive\LanQiao\Lesson\Pictures\0005.png">
+![](../Pictures/0005.png)
 
 list的容器特点包括:
 
