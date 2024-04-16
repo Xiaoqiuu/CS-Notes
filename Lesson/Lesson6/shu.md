@@ -12,7 +12,7 @@
 
 <img src = "C:\Archive\LanQiao\Lesson\Pictures\0008.png">
 
-![](./Pictures/0008.png)
+![](../Pictures/0008.png)
 
 - **度数**: 每个节点所有子树的个数。
 - **层数**: 树的层数。
