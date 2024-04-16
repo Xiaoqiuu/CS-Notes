@@ -1,0 +1,91 @@
+Date : 2024-02-29 21:46:59
+Directory : c:\Archive\LanQiao
+Total : 43 files,  3086 codes, 284 comments, 307 blanks, all 3677 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      2,004 |          0 |          1 |      2,005 |
+| Markdown   |         18 |        699 |          0 |        200 |        899 |
+| C++        |         19 |        259 |        270 |         87 |        616 |
+| C#         |          1 |         98 |          1 |         10 |        109 |
+| JavaScript |          1 |         16 |          0 |          1 |         17 |
+| C          |          2 |         10 |         13 |          8 |         31 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                              |         43 |      3,086 |        284 |        307 |      3,677 |
+| . (Files)                                      |          6 |        140 |          0 |         52 |        192 |
+| Algorithms                                     |          2 |         27 |          9 |          4 |         40 |
+| Algorithms\时间复杂度                               |          2 |         27 |          9 |          4 |         40 |
+| C                                              |          8 |        169 |         13 |         28 |        210 |
+| C2P                                            |          7 |        113 |        144 |         43 |        300 |
+| C2P (Files)                                    |          4 |         58 |         58 |         17 |        133 |
+| C2P\AnyThing                                   |          3 |         55 |         86 |         26 |        167 |
+| C\Anything                                     |          1 |          6 |         11 |          5 |         22 |
+| C\S1E13                                        |          1 |          4 |          2 |          3 |          9 |
+| C\ZJU                                          |          6 |        159 |          0 |         20 |        179 |
+| Lesson                                         |         13 |        421 |        117 |        110 |        648 |
+| Lesson\Lesson1                                 |          7 |        101 |         74 |         24 |        199 |
+| Lesson\Lesson2                                 |          4 |        137 |         43 |         30 |        210 |
+| Lesson\Lesson3                                 |          1 |        126 |          0 |         35 |        161 |
+| Lesson\Lesson4                                 |          1 |         57 |          0 |         21 |         78 |
+| Unity                                          |          6 |      2,200 |          1 |         63 |      2,264 |
+| Unity (Files)                                  |          3 |      2,102 |          1 |         11 |      2,114 |
+| Unity\md                                       |          3 |         98 |          0 |         52 |        150 |
+| 数据结构与算法(DLUFL)                                 |          1 |         16 |          0 |          7 |         23 |
++------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                       | language   | code       | comment    | blank      | total      |
++------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Archive\LanQiao\2ban.md                     | Markdown   |         91 |          0 |         33 |        124 |
+| c:\Archive\LanQiao\Algorithms\时间复杂度\C1.cpp     | C++        |         11 |          9 |          3 |         23 |
+| c:\Archive\LanQiao\Algorithms\时间复杂度\conwork.js | JavaScript |         16 |          0 |          1 |         17 |
+| c:\Archive\LanQiao\C2P\AnyThing\Train1.cpp     | C++        |          9 |         74 |          4 |         87 |
+| c:\Archive\LanQiao\C2P\AnyThing\c1.cpp         | C++        |         42 |          1 |         17 |         60 |
+| c:\Archive\LanQiao\C2P\AnyThing\helloworld.cpp | C++        |          4 |         11 |          5 |         20 |
+| c:\Archive\LanQiao\C2P\E1.cpp                  | C++        |         18 |         18 |          5 |         41 |
+| c:\Archive\LanQiao\C2P\c0.cpp                  | C++        |          7 |          3 |          6 |         16 |
+| c:\Archive\LanQiao\C2P\c1.cpp                  | C++        |         28 |          0 |          1 |         29 |
+| c:\Archive\LanQiao\C2P\helloworld.cpp          | C++        |          5 |         37 |          5 |         47 |
+| c:\Archive\LanQiao\C\Anything\helloworld.c     | C          |          6 |         11 |          5 |         22 |
+| c:\Archive\LanQiao\C\S1E13\study2.c            | C          |          4 |          2 |          3 |          9 |
+| c:\Archive\LanQiao\C\ZJU\9.md                  | Markdown   |          4 |          0 |          1 |          5 |
+| c:\Archive\LanQiao\C\ZJU\日语单词1.md              | Markdown   |         54 |          0 |          5 |         59 |
+| c:\Archive\LanQiao\C\ZJU\日语单词1_.md             | Markdown   |         54 |          0 |          5 |         59 |
+| c:\Archive\LanQiao\C\ZJU\日语语法.md               | Markdown   |          2 |          0 |          2 |          4 |
+| c:\Archive\LanQiao\C\ZJU\第一课.md                | Markdown   |         32 |          0 |          7 |         39 |
+| c:\Archive\LanQiao\C\ZJU\考试要求.md               | Markdown   |         13 |          0 |          0 |         13 |
+| c:\Archive\LanQiao\Lesson\Lesson1\Lesson1.cpp  | C++        |         11 |         43 |          1 |         55 |
+| c:\Archive\LanQiao\Lesson\Lesson1\OJ.cpp       | C++        |         13 |         29 |          5 |         47 |
+| c:\Archive\LanQiao\Lesson\Lesson1\example1.cpp | C++        |         13 |          1 |          3 |         17 |
+| c:\Archive\LanQiao\Lesson\Lesson1\example2.cpp | C++        |         12 |          1 |          4 |         17 |
+| c:\Archive\LanQiao\Lesson\Lesson1\example3.cpp | C++        |         11 |          0 |          2 |         13 |
+| c:\Archive\LanQiao\Lesson\Lesson1\example4.cpp | C++        |         14 |          0 |          2 |         16 |
+| c:\Archive\LanQiao\Lesson\Lesson1\study.md     | Markdown   |         27 |          0 |          7 |         34 |
+| c:\Archive\LanQiao\Lesson\Lesson2\study.md     | Markdown   |        107 |          0 |         12 |        119 |
+| c:\Archive\LanQiao\Lesson\Lesson2\study1.cpp   | C++        |         19 |         18 |         10 |         47 |
+| c:\Archive\LanQiao\Lesson\Lesson2\study2.cpp   | C++        |         11 |          4 |          4 |         19 |
+| c:\Archive\LanQiao\Lesson\Lesson2\study3.cpp   | C++        |          0 |         21 |          4 |         25 |
+| c:\Archive\LanQiao\Lesson\Lesson3\study.md     | Markdown   |        126 |          0 |         35 |        161 |
+| c:\Archive\LanQiao\Lesson\Lesson4\study1.md    | Markdown   |         57 |          0 |         21 |         78 |
+| c:\Archive\LanQiao\Unity\UsrDatabaseManager.cs | C#         |         98 |          1 |         10 |        109 |
+| c:\Archive\LanQiao\Unity\data.json             | JSON       |        123 |          0 |          1 |        124 |
+| c:\Archive\LanQiao\Unity\md\MySQL.md           | Markdown   |         63 |          0 |         39 |        102 |
+| c:\Archive\LanQiao\Unity\md\URP.md             | Markdown   |         34 |          0 |         13 |         47 |
+| c:\Archive\LanQiao\Unity\md\Vroid.md           | Markdown   |          1 |          0 |          0 |          1 |
+| c:\Archive\LanQiao\Unity\new_data_zh.json      | JSON       |      1,881 |          0 |          0 |      1,881 |
+| c:\Archive\LanQiao\avx2_demo.cpp               | C++        |         18 |          0 |          4 |         22 |
+| c:\Archive\LanQiao\bp.md                       | Markdown   |          0 |          0 |          1 |          1 |
+| c:\Archive\LanQiao\homework.md                 | Markdown   |          0 |          0 |          1 |          1 |
+| c:\Archive\LanQiao\test.cpp                    | C++        |         13 |          0 |          2 |         15 |
+| c:\Archive\LanQiao\市场分析.md                     | Markdown   |         18 |          0 |         11 |         29 |
+| c:\Archive\LanQiao\数据结构与算法(DLUFL)\lesson1.md   | Markdown   |         16 |          0 |          7 |         23 |
+| Total                                          |            |      3,086 |        284 |        307 |      3,677 |
++------------------------------------------------+------------+------------+------------+------------+------------+

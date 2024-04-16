@@ -1,0 +1,28 @@
+*|格式：本行标识 语句
+*|普通脚本：D|名字|对话
+*|命令脚本：C|setbackground|background(路径)|0 
+*|          C|setbgm|bgm(名字)| 播放bgm|0
+*|          C|setcharacter|立绘名|绘制位置(left,center,right)
+*|        C|erasecharacter|position|.|.
+*|        C|stopbgm|.|.|.
+*|注释脚本：*在最前，不解析
+*|选择脚本:   S|按钮1文字|按钮1跳转行|按钮2文字|按钮2跳转行....
+C|setbackground|street1
+C|setcharacter|Girl1|center
+D|Me|你好，这是一个普通脚本的测试 
+D||这是下一句话，怎Me么样，解析成功了吗
+C|setbgm|Bgm1
+D|少女|这是一座很普通的小镇噢！跟我来，我来带你参观吧! 
+C|erasecharacter|all
+D|我|就这样跟着少女在小镇中转了一个多小时，所见之物大都是司空见惯的，没有什么特别的感受
+C|setbackground|Black
+D|我|这种感觉没持续多久......直到......
+D|我|走进了那一间房子......
+D|
+C|setbackground|room1
+D|Yuki|。。。你好
+D|少女|你好啊，我是Yuki，是少女，请问你是哪里人？
+D|Yuki|我是日本人，在东京的某个小镇生活。
+D|少女|日本？那你是日本人吗？
+D|Yuki|是的，我是日本人。
+D|Me|傻逼Ai，别特么接着解析猜测了。什么傻逼剧情？

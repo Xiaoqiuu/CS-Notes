@@ -1,0 +1,5 @@
+//hlsl sample
+
+pass
+{
+    float 
